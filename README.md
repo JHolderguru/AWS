@@ -35,7 +35,13 @@
 #### [Networking]
 
 #### Deployment Models
-#### Public cloud, Pvt Cloud(Pvt cloud gives companies direct control over their data) and Hybrid Cloud leverage both worlds
+#### Public cloud, Pvt Cloud (Pvt cloud gives companies direct control over their data) and Hybrid Cloud leverage both worlds
 
-### Why Lambda
+### Why Lambda?
+#### a serverless compute service meaning the Developers don't have to worry about which resources to launch or how they will manage the. They just put code on lambda and it runs, simple!
 #### automated version of EC2
+#### no worries about the underlying Architecture
+#### for executing background Tasks
+### How do you use Lambda?
+#### You use AWS SDKs
+#### AWS with Eclipse IDE (install eclipse on a system) #Java
