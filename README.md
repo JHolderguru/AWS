@@ -36,3 +36,6 @@
 
 #### Deployment Models
 #### Public cloud, Pvt Cloud(Pvt cloud gives companies direct control over their data) and Hybrid Cloud leverage both worlds
+
+### Why Lambda
+#### automated version of EC2
